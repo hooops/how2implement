@@ -132,13 +132,9 @@ module.exports = (deployer) => {
     deployer.deploy(SlotMachine);
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 
 ## 配置truffle.js文件 {#配置trufflejs文件}
 
-{% code-tabs %}
-{% code-tabs-item title="truffle.js" %}
 ```typescript
 module.exports = {
   networks: {  
