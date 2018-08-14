@@ -9,4 +9,5 @@
   * [用BadUSB物理入侵别人的电脑](zen-yang-shi-xian-de/yong-badusb-wu-li-ru-qin-bie-ren-de-dian-nao.md)
   * [用Tensorflow.js和摄像头玩俄罗斯方块](zen-yang-shi-xian-de/yong-tensorflow.js-he-she-xiang-tou-waneluo-si-fang-kuai.md)
   * [开发以太坊DAPP--水果机](zen-yang-shi-xian-de/kai-fa-yi-tai-fang-dapp.md)
+  * [表达式是怎样被解析的呢](zen-yang-shi-xian-de/biao-da-shi-shi-zen-yang-bei-jie-xi-de-ne.md)
 
