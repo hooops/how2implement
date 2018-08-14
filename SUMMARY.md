@@ -10,4 +10,5 @@
   * [用Tensorflow.js和摄像头玩俄罗斯方块](zen-yang-shi-xian-de/yong-tensorflow.js-he-she-xiang-tou-waneluo-si-fang-kuai.md)
   * [开发以太坊DAPP--水果机](zen-yang-shi-xian-de/kai-fa-yi-tai-fang-dapp.md)
   * [表达式是怎样被解析的呢](zen-yang-shi-xian-de/biao-da-shi-shi-zen-yang-bei-jie-xi-de-ne.md)
+  * [Airtest基于图像识别的UI自动化测试工具](zen-yang-shi-xian-de/airtest-ji-yu-tu-xiang-shi-bie-de-ui-zi-dong-hua-ce-shi-gong-ju.md)
 
