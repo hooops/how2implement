@@ -28,6 +28,8 @@ cd a dir
 touch ./contracts/SlotMachine.sol
 ```
 
+{% code-tabs %}
+{% code-tabs-item title="SlotMachine.sol" %}
 ```typescript
 // 声明编译器版本号
 pragma solidity ^0.4.4;
@@ -122,9 +124,13 @@ contract SlotMachine {
     }
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 ## 编写迁移脚本 {#编写迁移脚本}
 
+{% code-tabs %}
+{% code-tabs-item title="migrations/2\_deploy\_contracts.js" %}
 ```typescript
 var SlotMachine = artifacts.require('./SlotMachine');
 
@@ -132,9 +138,13 @@ module.exports = (deployer) => {
     deployer.deploy(SlotMachine);
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 ## 配置truffle.js文件 {#配置trufflejs文件}
 
+{% code-tabs %}
+{% code-tabs-item title="truffle.js" %}
 ```typescript
 module.exports = {
   networks: {  
@@ -146,6 +156,8 @@ module.exports = {
   }  
 };
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 ## 启动ganache-cli测试链 {#启动ganache-cli}
 
