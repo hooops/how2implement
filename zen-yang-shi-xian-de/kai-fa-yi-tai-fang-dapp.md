@@ -178,5 +178,5 @@ module.exports = {
 
 ## 效果展示
 
-![](../.gitbook/assets/demo.gif)
+![](../.gitbook/assets/demo%20%281%29.gif)
 

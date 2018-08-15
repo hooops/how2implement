@@ -11,4 +11,5 @@
   * [开发以太坊DAPP--水果机](zen-yang-shi-xian-de/kai-fa-yi-tai-fang-dapp.md)
   * [表达式是怎样被解析的呢](zen-yang-shi-xian-de/biao-da-shi-shi-zen-yang-bei-jie-xi-de-ne.md)
   * [Airtest基于图像识别的UI自动化测试工具](zen-yang-shi-xian-de/airtest-ji-yu-tu-xiang-shi-bie-de-ui-zi-dong-hua-ce-shi-gong-ju.md)
+  * [滑动拼图验证码的JS实现](zen-yang-shi-xian-de/hua-dong-pin-tu-yan-zheng-ma-de-js-shi-xian.md)
 
