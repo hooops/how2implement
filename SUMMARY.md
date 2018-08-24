@@ -13,4 +13,5 @@
   * [Airtest基于图像识别的UI自动化测试工具](zen-yang-shi-xian-de/airtest-ji-yu-tu-xiang-shi-bie-de-ui-zi-dong-hua-ce-shi-gong-ju.md)
   * [滑动拼图验证码的JS实现](zen-yang-shi-xian-de/hua-dong-pin-tu-yan-zheng-ma-de-js-shi-xian.md)
   * [内网穿透--TCP打洞](zen-yang-shi-xian-de/nei-wang-chuan-tou-tcp-da-dong.md)
+  * [一致性哈希算法的理解与实践](zen-yang-shi-xian-de/yi-zhi-xing-ha-xi-suan-fa-de-li-jie-yu-shi-jian.md)
 
