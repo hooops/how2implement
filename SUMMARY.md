@@ -3,6 +3,7 @@
 * [怎样实现的？](README.md)
 * [简介](jian-jie.md)
 * [怎样实现的？](zen-yang-shi-xian-de/README.md)
+  * [使用Fuel快速搭建OpenStack](zen-yang-shi-xian-de/shi-yong-fuel-kuai-su-da-jian-openstack.md)
   * [CentOS7搭建DNS服务器](zen-yang-shi-xian-de/centos7-da-jian-dns-fu-wu-qi.md)
   * [微信的语音段传输](zen-yang-shi-xian-de/wei-xin-de-yu-yin-duan-chuan-shu.md)
   * [用Python写MT4自动交易策略来炒外汇](zen-yang-shi-xian-de/yong-python-xie-mt4-zi-dong-jiao-yi-ce-lve-lai-chao-wai-hui.md)
