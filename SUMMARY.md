@@ -3,6 +3,7 @@
 * [怎样实现的？](README.md)
 * [简介](jian-jie.md)
 * [怎样实现的？](zen-yang-shi-xian-de/README.md)
+  * [Centos7搭建单节点OpenShift\(OKD\)](zen-yang-shi-xian-de/centos7-da-jian-dan-jie-dian-openshiftokd.md)
   * [使用Fuel快速搭建OpenStack](zen-yang-shi-xian-de/shi-yong-fuel-kuai-su-da-jian-openstack.md)
   * [CentOS7搭建DNS服务器](zen-yang-shi-xian-de/centos7-da-jian-dns-fu-wu-qi.md)
   * [微信的语音段传输](zen-yang-shi-xian-de/wei-xin-de-yu-yin-duan-chuan-shu.md)
