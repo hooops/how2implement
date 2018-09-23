@@ -3,6 +3,7 @@
 * [怎样实现的？](README.md)
 * [简介](jian-jie.md)
 * [怎样实现的？](zen-yang-shi-xian-de/README.md)
+  * [Ceph集群的搭建与运维](zen-yang-shi-xian-de/ceph-ji-qun-de-da-jian-yu-yun-wei.md)
   * [Nextcloud搭建自己的云盘](zen-yang-shi-xian-de/nextcloud-da-jian-zi-ji-de-yun-pan.md)
   * [Centos7搭建单节点OpenShift\(OKD\)](zen-yang-shi-xian-de/centos7-da-jian-dan-jie-dian-openshiftokd.md)
   * [使用Fuel快速搭建OpenStack](zen-yang-shi-xian-de/shi-yong-fuel-kuai-su-da-jian-openstack.md)
