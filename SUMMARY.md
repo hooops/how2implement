@@ -3,6 +3,7 @@
 * [怎样实现的？](README.md)
 * [简介](jian-jie.md)
 * [怎样实现的？](zen-yang-shi-xian-de/README.md)
+  * [调整Linux内核参数](zen-yang-shi-xian-de/tiao-zheng-linux-nei-he-can-shu.md)
   * [ProxmoxVE高可用集群搭建并集成Ceph](zen-yang-shi-xian-de/proxmoxve-gao-ke-yong-ji-qun-da-jian-bing-ji-cheng-ceph.md)
   * [Ceph集群的搭建与运维](zen-yang-shi-xian-de/ceph-ji-qun-de-da-jian-yu-yun-wei.md)
   * [Nextcloud搭建自己的云盘](zen-yang-shi-xian-de/nextcloud-da-jian-zi-ji-de-yun-pan.md)
