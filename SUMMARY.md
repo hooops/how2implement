@@ -3,6 +3,7 @@
 * [怎样实现的？](README.md)
 * [简介](jian-jie.md)
 * [怎样实现的？](zen-yang-shi-xian-de/README.md)
+  * [使用Harbor搭建自己的docker镜像仓库](zen-yang-shi-xian-de/shi-yong-harbor-da-jian-zi-ji-de-docker-jing-xiang-cang-ku.md)
   * [使用OpenSTF同时操作多台手机](zen-yang-shi-xian-de/shi-yong-openstf-tong-shi-cao-zuo-duo-tai-shou-ji.md)
   * [使用LDX创建管理基于容器的虚拟机](zen-yang-shi-xian-de/shi-yong-ldx-chuang-jian-guan-li-ji-yu-rong-qi-de-xu-ni-ji.md)
   * [调整Linux内核参数](zen-yang-shi-xian-de/tiao-zheng-linux-nei-he-can-shu.md)
