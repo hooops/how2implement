@@ -130,7 +130,7 @@ nslookup www.ns2250225.com 192.168.14.250
 nslookup 192.168.14.251 192.168.14.250
 ```
 
-![](../.gitbook/assets/2%20%281%29.png)
+![](../.gitbook/assets/2%20%282%29.png)
 
 ## 附录
 

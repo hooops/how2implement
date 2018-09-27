@@ -86,7 +86,7 @@ lxc exec centos-vm1 bash
 
 ![](../.gitbook/assets/1%20%281%29.png)
 
-![](../.gitbook/assets/2.png)
+![](../.gitbook/assets/2%20%281%29.png)
 
 ![](../.gitbook/assets/3.png)
 
