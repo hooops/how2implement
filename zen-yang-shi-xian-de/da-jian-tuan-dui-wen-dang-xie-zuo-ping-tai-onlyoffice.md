@@ -34,9 +34,9 @@ docker run --net onlyoffice --privileged -i -t -d --restart=always \
 
 * http://server\_ip
 
-![](../.gitbook/assets/1.png)
+![](../.gitbook/assets/1%20%281%29.png)
 
-![](../.gitbook/assets/2%20%284%29.png)
+![](../.gitbook/assets/2%20%285%29.png)
 
 ![](../.gitbook/assets/3%20%281%29.png)
 

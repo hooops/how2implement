@@ -27,7 +27,7 @@
 
 ## 效果图
 
-![](../.gitbook/assets/2.png)
+![](../.gitbook/assets/2%20%281%29.png)
 
 ## 官方地址
 
