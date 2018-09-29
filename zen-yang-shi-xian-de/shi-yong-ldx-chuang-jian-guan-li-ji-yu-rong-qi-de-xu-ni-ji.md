@@ -84,7 +84,7 @@ lxc exec centos-vm1 bash
 * [http://server\_ip:15151](http://127.0.0.1:15151)
 * 账号/密码： **admin** \| **admin**
 
-![](../.gitbook/assets/1%20%281%29.png)
+![](../.gitbook/assets/1%20%282%29.png)
 
 ![](../.gitbook/assets/2%20%281%29.png)
 

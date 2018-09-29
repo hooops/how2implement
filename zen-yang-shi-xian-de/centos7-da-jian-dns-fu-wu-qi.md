@@ -122,7 +122,7 @@ systemctl restart named.service
 nslookup www.ns2250225.com 192.168.14.250
 ```
 
-![](../.gitbook/assets/1%20%282%29.png)
+![](../.gitbook/assets/1%20%283%29.png)
 
 ## 测试反向解析
 
