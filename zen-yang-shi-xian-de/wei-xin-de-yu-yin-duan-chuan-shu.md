@@ -118,5 +118,5 @@ readyState
 
 ## 效果展示
 
-![](../.gitbook/assets/1%20%282%29.png)
+![](../.gitbook/assets/1%20%283%29.png)
 
