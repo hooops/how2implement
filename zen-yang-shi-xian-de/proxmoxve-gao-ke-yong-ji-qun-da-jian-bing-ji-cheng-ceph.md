@@ -60,3 +60,7 @@ pveceph createmon
 
 * 在Web界面上操作，点击HA进行配置
 
+## RestFulAPI
+
+* [https://pve.proxmox.com/pve-docs/api-viewer/index.html](https://pve.proxmox.com/pve-docs/api-viewer/index.html)
+
