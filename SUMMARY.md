@@ -3,6 +3,7 @@
 * [怎样实现的？](README.md)
 * [简介](jian-jie.md)
 * [怎样实现的？](zen-yang-shi-xian-de/README.md)
+  * [Ovirt4.2搭建流程](zen-yang-shi-xian-de/ovirt4.2-da-jian-liu-cheng.md)
   * [使用Rancher光速搭建K8s集群](zen-yang-shi-xian-de/shi-yong-rancher-guang-su-da-jian-k8s-ji-qun.md)
   * [CentOS7不重启扩展根分区磁盘空间](zen-yang-shi-xian-de/centos7-bu-zhong-qi-kuo-zhan-gen-fen-qu-ci-pan-kong-jian.md)
   * [搭建团队文档协作平台（OnlyOffice）](zen-yang-shi-xian-de/da-jian-tuan-dui-wen-dang-xie-zuo-ping-tai-onlyoffice.md)
