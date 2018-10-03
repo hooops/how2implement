@@ -21,7 +21,7 @@
 
 ## 访问Web界面
 
-![](../.gitbook/assets/2%20%281%29.PNG)
+![](../.gitbook/assets/2%20%282%29.PNG)
 
 ![](../.gitbook/assets/1.PNG)
 

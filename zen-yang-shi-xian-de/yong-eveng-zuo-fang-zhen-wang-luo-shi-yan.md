@@ -16,7 +16,7 @@
 
 * http://server\_ip
 
-![](../.gitbook/assets/1%20%281%29.PNG)
+![](../.gitbook/assets/1%20%282%29.PNG)
 
 ![](../.gitbook/assets/2.PNG)
 

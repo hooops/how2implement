@@ -3,6 +3,7 @@
 * [怎样实现的？](README.md)
 * [简介](jian-jie.md)
 * [怎样实现的？](zen-yang-shi-xian-de/README.md)
+  * [用bookStack搭建团队知识平台](zen-yang-shi-xian-de/yong-bookstack-da-jian-tuan-dui-zhi-shi-ping-tai.md)
   * [用Duplicati实现计划备份](zen-yang-shi-xian-de/yong-duplicati-shi-xian-ji-hua-bei-fen.md)
   * [用FreeNAS搭建网络存储服务器](zen-yang-shi-xian-de/yong-freenas-da-jian-wang-luo-cun-chu-fu-wu-qi.md)
   * [Ovirt4.2搭建流程](zen-yang-shi-xian-de/ovirt4.2-da-jian-liu-cheng.md)
