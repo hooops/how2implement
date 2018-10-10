@@ -36,7 +36,7 @@ docker-compose up
 
 * `http://server_ip:8080`
 
-![](../.gitbook/assets/1%20%281%29.PNG)
+![](../.gitbook/assets/1%20%282%29.PNG)
 
 ![](../.gitbook/assets/2%20%281%29.PNG)
 
